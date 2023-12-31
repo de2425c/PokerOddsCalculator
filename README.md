@@ -1,9 +1,9 @@
 
 # PokerOddsCalculator
 Simple Poker Odds Calculator that can calculate the equity between two hands on the flop, turn, or even preflop from command line input
- * Usage: java Main
+ 
  * @author David Eyal
- * @version 1.0 December 30 2023
+ * @version 2.0 December 30 2023
 
  # GUI
 
